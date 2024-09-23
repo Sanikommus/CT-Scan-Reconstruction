@@ -81,6 +81,3 @@ Myevaluation.py - To calculate the model performance.
 
 
 
-
-
-# CT-Scan-Reconstruction
